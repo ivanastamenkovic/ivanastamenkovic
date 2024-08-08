@@ -4,14 +4,11 @@
 
 After 6+ years of working as a freelance virtual assistant (and several years thinking it was too late for me to change my career path now) - I've **decided to pursue my passion for IT** 🚀
 
-💻 At the moment, I'm working as a **freelance QA on Upwork and for Benable**, but I'm always seeking for new opportunities to apply my knowledge and expertise in a startup or corporation.
+💻 At the moment, I'm working as a **freelance QA on Upwork**, but I'm always seeking for new opportunities to apply my knowledge and expertise in a startup or corporation.
 
 📕👩‍🎓 I'm a student of **Software and Information Technologies** at Faculty of Technical Sciences, University of Novi Sad!
 
-<br>
-
 📚 I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.
-- currently following Maximilian’s "[100 Days Of Code - 2024 Web Development Bootcamp](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)"
 
 <br>
 
