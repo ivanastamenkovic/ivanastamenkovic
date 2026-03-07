@@ -6,11 +6,11 @@ After more than 6 years of working as a freelance virtual assistant (and spendin
 
 I'm currently a student of **Software and Information Technologies** at Faculty of Technical Sciences, University of Novi Sad - finishing my second year (out of three) with an average grade of 9.0 👩‍🎓
 
-Through my studies I’ve been working with C# and WPF, building a simple task-tracking application and currently developing a fitness app, as part of a group project. The enthusiasm and teaching style of the professor and teaching assistant strongly influenced my decision to focus on .NET development.
+Through my studies I’ve been working with C# and WPF, building a simple task-tracking application and currently developing a fitness app, as part of a group project. The enthusiasm and teaching style of the professor and teaching assistant strongly influenced my decision to **focus on .NET development**.
 
-Alongside my studies, I’ve continued working as a freelance QA, which gave me valuable insight into the software development lifecycle and working in Agile teams. I believe this perspective will help me become a better developer and collaborate more effectively with QAs in the future.
+Alongside my studies, I’ve continued **working as a freelance QA**, which gave me valuable insight into the software development lifecycle and working in Agile teams. I believe this perspective will help me become a better developer and collaborate more effectively with QAs in the future.
 
-📚 I’m constantly learning and building projects, and having a clearer idea of my goals now makes it easier to focus. Even though I’m currently interested in becoming a .NET developer and working toward that, I’m also open to exploring different technologies and opportunities - after all, I still have one more year of studies ahead.
+📚 I’m constantly learning and building projects, and having a clearer idea of my goals now makes it easier to focus. Even though I’m currently interested in becoming a .NET developer and working toward that, I’m also **open to exploring different technologies and opportunities** - after all, I still have one more year of studies ahead.
 
 <br>
 
