@@ -6,11 +6,20 @@ After more than 6 years of working as a freelance virtual assistant (and spendin
 
 I'm currently a student of **Software and Information Technologies** at Faculty of Technical Sciences, University of Novi Sad - finishing my second year (out of three) with an average grade of 9.0 👩‍🎓
 
-Through my studies I’ve been working with C# and WPF, building a simple task-tracking application and currently developing a fitness app, as part of a group project. The enthusiasm and teaching style of the professor and teaching assistant strongly influenced my decision to **focus on .NET development**.
+Through my studies I've been working with C# and WPF, building a simple task-tracking application and, most recently, a fitness app connecting clients with personal trainers. I've also built a **Config System API** in Go, a web service for centralized configuration management with support for versioning, label-based filtering, idempotency, rate limiting, and observability (tracing and metrics). 
 
 Alongside my studies, I’ve continued **working as a freelance QA**, which gave me valuable insight into the software development lifecycle and working in Agile teams. I believe this perspective will help me become a better developer and collaborate more effectively with QAs in the future.
 
-📚 I’m constantly learning and building projects, and having a clearer idea of my goals now makes it easier to focus. Even though I’m currently interested in becoming a .NET developer and working toward that, I’m also **open to exploring different technologies and opportunities** - after all, I still have one more year of studies ahead.
+📚 I’m constantly learning and building projects. I'm **open to exploring different technologies and opportunities** - after all, I still have one more year of studies ahead.
+
+<br>
+
+## Featured Projects
+
+- **[Config System API](https://github.com/ivanastamenkovic/config-system-project)** – A Go web service for centralized management of configurations and configuration groups, with versioning, label-based filtering, idempotent requests, rate limiting, and observability via OpenTelemetry and Prometheus.
+- **[FitnessTrainer](https://github.com/ivanastamenkovic/FitnessTrainer)** – A WPF/C# desktop application connecting clients with personal trainers: custom workout plans, progress tracking, and in-app messaging. Built independently.
+- **[TaskBoard](https://github.com/ivanastamenkovic/TaskBoard)** – A WPF/C# Kanban-style desktop app for task management, with user accounts, custom labels, task history tracking, and SQL Server persistence.
+- **[Used Cars Website](https://github.com/ivanastamenkovic/used-cars-web-design-project)** – A front-end used cars listing site (HTML/CSS/JavaScript) with Firebase integration, built in the first year of studies. [Live demo](https://used-cars-web-design-project.netlify.app/)
 
 <br>
 
