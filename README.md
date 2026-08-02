@@ -17,9 +17,9 @@ Alongside my studies, I’ve continued **working as a freelance QA**, which gave
 ## Featured Projects
 
 - **[Config System API](https://github.com/ivanastamenkovic/config-system-project)** – A Go web service for centralized management of configurations and configuration groups, with versioning, label-based filtering, idempotent requests, rate limiting, and observability via OpenTelemetry and Prometheus.
-- **[FitnessTrainer](https://github.com/ivanastamenkovic/FitnessTrainer)** – A WPF/C# desktop application connecting clients with personal trainers: custom workout plans, progress tracking, and in-app messaging. Built independently.
+- **[FitnessTrainer](https://github.com/ivanastamenkovic/FitnessTrainer)** – A WPF/C# desktop application connecting clients with personal trainers: custom workout plans, progress tracking, and in-app messaging. 
 - **[TaskBoard](https://github.com/ivanastamenkovic/TaskBoard)** – A WPF/C# Kanban-style desktop app for task management, with user accounts, custom labels, task history tracking, and SQL Server persistence.
-- **[Used Cars Website](https://github.com/ivanastamenkovic/used-cars-web-design-project)** – A front-end used cars listing site (HTML/CSS/JavaScript) with Firebase integration, built in the first year of studies. [Live demo](https://used-cars-web-design-project.netlify.app/)
+- **[Used Cars Website](https://github.com/ivanastamenkovic/used-cars-web-design-project)** – A front-end used cars listing site (HTML/CSS/JavaScript) with Firebase integration. [Live demo](https://used-cars-web-design-project.netlify.app/)
 
 <br>
 
